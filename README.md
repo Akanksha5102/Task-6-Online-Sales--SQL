@@ -222,73 +222,70 @@ order by total_quantity desc;
 
 ## Sales Insight Summary
 
-1. Top Performing Months
+1. **Top Performing Months**
 
-Highest Revenue Months:
-January (₹61,632), March (₹60,694), November (₹48,469)
-Highest Average Spend per Customer:
-August (₹1,124.71), January (₹1,081.26), November (₹1,077.09)
+- Highest Revenue Months:**
+  - January (₹61,632), March (₹60,694), November (₹48,469)
+- Highest Average Spend per Customer:
+   - August (₹1,124.71), January (₹1,081.26), November (₹1,077.09)
 
-Insight:
-January and March perform well in both revenue and customer count, indicating strong seasonal demand.
-August has fewer customers but highest per-customer spending, suggesting potential for targeted premium marketing.
+- **Insight:**
+  - January and March perform well in both revenue and customer count, indicating strong seasonal demand.
+  - August has fewer customers but highest per-customer spending, suggesting potential for targeted premium marketing.
 
-2. City-Wise Sales
+2. **City-Wise Sales**
    
-Top Cities by Revenue:
-Indore (₹63,680), Mumbai (₹58,886), Pune (₹43,612)
-Lowest Performing Cities:
-Gangtok, Lucknow, Chennai (all under ₹6,000)
+- Top Cities by Revenue:
+  - Indore (₹63,680), Mumbai (₹58,886), Pune (₹43,612)
+- Lowest Performing Cities:
+   - Gangtok, Lucknow, Chennai (all under ₹6,000)
 
-Insight:
+- **Insight:**
 
-Focus on maintaining leadership in Indore, Mumbai, and Pune.
-Explore growth strategies (ads, local promos) in underperforming cities.
+  - Focus on maintaining leadership in Indore, Mumbai, and Pune.
+  - Explore growth strategies (ads, local promos) in underperforming cities.
 
-3. Payment Mode Analysis
+3. **Payment Mode Analysis**
    
-Most Used:
+- Most Used:
+   - Cash on Delivery (COD) – 347 orders, ₹1,55,181 revenue
 
-Cash on Delivery (COD) – 347 orders, ₹1,55,181 revenue
-Highest Revenue per Order:
-Credit Card (₹86932 from 128 orders)
+- Highest Revenue per Order:
+  - Credit Card (₹86932 from 128 orders)
 
-Insight:
+- **Insight:**
 
-COD dominates, but Credit Card transactions have higher value per order.
-Encourage digital payment usage through incentives.
+  - COD dominates, but Credit Card transactions have higher value per order.
+  - Encourage digital payment usage through incentives.
 
-4. Category-Wise Performance
+4. **Category-Wise Performance**
 
-Top Category by Profit:
+- Top Category by Profit:
+  - Electronics (₹13,162 profit), followed by Clothing and Furniture
 
-Electronics (₹13,162 profit), followed by Clothing and Furniture
+- **Insight:**
+  
+   - Electronics deliver both revenue and profit, making it the most lucrative segment.
+   - Evaluate costs in Furniture—high revenue (₹1,27,181) but relatively lower profit (₹10,476).
 
-Insight:
+5. **Sub-Category Performance**
 
-Electronics deliver both revenue and profit, making it the most lucrative segment.
-Evaluate costs in Furniture—high revenue (₹1,27,181) but relatively lower profit (₹10,476).
+- Most Sold by Quantity:
+  - Saree, Handkerchief, Stole
+- Most Profitable Sub-Categories:
+   - Printers, Bookcases, Accessories
+- Loss-Making Sub-Categories:
+   - Furnishings (₹-806), Electronic Games (₹-644), Leggings (₹-130)
 
-5. Sub-Category Performance
-
-Most Sold by Quantity:
-
-Saree, Handkerchief, Stole
-Most Profitable Sub-Categories:
-Printers, Bookcases, Accessories
-Loss-Making Sub-Categories:
-Furnishings (₹-806), Electronic Games (₹-644), Leggings (₹-130)
-
-Insight:
-
-Focus on scaling high-quantity and high-profit sub-categories.
-Investigate cost issues or pricing for loss-making items.
+- **Insight:**
+  - Focus on scaling high-quantity and high-profit sub-categories.
+  - Investigate cost issues or pricing for loss-making items.
 
 ### Strategic Recommendations
 
-Run promotional campaigns in July, the weakest month.
-Focus marketing on top cities (Indore, Mumbai, Pune) while growing presence in bottom-tier cities.
-Encourage digital payments (Credit Card/UPI) to improve order value.
-Expand Electronics offerings, and monitor Furniture for margin improvements.
-Streamline or revamp underperforming sub-categories like Furnishings and Games.
+- Run promotional campaigns in July, the weakest month.
+- Focus marketing on top cities (Indore, Mumbai, Pune) while growing presence in bottom-tier cities.
+- Encourage digital payments (Credit Card/UPI) to improve order value.
+- Expand Electronics offerings, and monitor Furniture for margin improvements.
+- Streamline or revamp underperforming sub-categories like Furnishings and Games.
 
